@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1837-sum-of-digits-in-base-k](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/1837-sum-of-digits-in-base-k) |
 | [2579-count-total-number-of-colored-cells](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/2579-count-total-number-of-colored-cells) |
 | [2806-account-balance-after-rounded-purchase](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/2806-account-balance-after-rounded-purchase) |
+| [2849-determine-if-a-cell-is-reachable-at-a-given-time](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/2849-determine-if-a-cell-is-reachable-at-a-given-time) |
 ## Array
 |  |
 | ------- |
