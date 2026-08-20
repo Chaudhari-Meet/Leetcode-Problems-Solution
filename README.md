@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1837-sum-of-digits-in-base-k](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/1837-sum-of-digits-in-base-k) |
+| [2579-count-total-number-of-colored-cells](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/2579-count-total-number-of-colored-cells) |
 | [2806-account-balance-after-rounded-purchase](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/2806-account-balance-after-rounded-purchase) |
 ## Array
 |  |
