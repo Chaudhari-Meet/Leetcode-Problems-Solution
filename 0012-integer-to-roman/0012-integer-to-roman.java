@@ -1,70 +1,31 @@
+import java.util.*;
 class Solution {
-    public String intToRoman(int n) {
-        char[] c = new char[15];
-        int i=0; 
+    public String intToRoman(int num) {
+        Map<Integer, String> romanMap = new LinkedHashMap<>();
+        romanMap.put(1000, "M");
+        romanMap.put(900, "CM");
+        romanMap.put(500, "D");
+        romanMap.put(400, "CD");
+        romanMap.put(100, "C");
+        romanMap.put(90, "XC");
+        romanMap.put(50, "L");
+        romanMap.put(40, "XL");
+        romanMap.put(10, "X");
+        romanMap.put(9, "IX");
+        romanMap.put(5, "V");
+        romanMap.put(4, "IV");
+        romanMap.put(1, "I");
 
-        while(n >= 1000) {
-            c[i++] = 'M';
-            n -= 1000;
-        }
-        if(n >= 900){
-            c[i++] = 'C';
-            c[i++] = 'M';
-            n -= 900;
-        }
-        if(n >= 500){
-            c[i++] = 'D';
-            n -= 500;
-        }
-        if(n >= 400){
-            c[i++] = 'C';
-            c[i++] = 'D';
-            n -= 400;
-        }
+        List<Map.Entry<Integer, String>> entries = new ArrayList<>(romanMap.entrySet());
+        StringBuilder sb = new StringBuilder();
 
-        while(n >= 100){
-            c[i++] = 'C';
-            n -= 100;
+        for (int i = 0; i < 13; i++) {
+            Map.Entry<Integer, String> entry = entries.get(i);
+            while (num >= entry.getKey()) {
+                num -= entry.getKey();
+                sb.append(entry.getValue());
+            }
         }
-        if(n >= 90){
-            c[i++] = 'X';
-            c[i++] = 'C';
-            n -= 90;
-        }
-        if(n >= 50){
-            c[i++] = 'L';
-            n -= 50;
-        }
-        if(n >= 40){
-            c[i++] = 'X';
-            c[i++] = 'L';
-            n -= 40;
-        }
-        
-        while(n >= 10){
-            c[i++] = 'X';
-            n -= 10;
-        }
-        if(n >= 9){
-            c[i++] = 'I';
-            c[i++] = 'X';
-            n -= 9;
-        }
-        if(n >= 5){
-            c[i++] = 'V';
-            n -= 5;
-        }
-        if(n >= 4){
-            c[i++] = 'I';
-            c[i++] = 'V';
-            n -= 4;
-        }
-
-        while(n >= 1){
-            c[i++] = 'I';
-            n -= 1;
-        }
-
-        return new String(c , 0, i); 
+        return sb.toString();
     }
 }
