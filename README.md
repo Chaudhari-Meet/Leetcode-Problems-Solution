@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0048-rotate-image) |
 | [0204-count-primes](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0204-count-primes) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0048-rotate-image) |
 | [0204-count-primes](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0204-count-primes) |
 | [1572-matrix-diagonal-sum](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/1572-matrix-diagonal-sum) |
 | [2057-smallest-index-with-equal-value](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/2057-smallest-index-with-equal-value) |
@@ -51,5 +53,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0048-rotate-image) |
 | [1572-matrix-diagonal-sum](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
