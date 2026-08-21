@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0048-rotate-image) |
 | [0204-count-primes](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0204-count-primes) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -55,4 +56,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0048-rotate-image) |
 | [1572-matrix-diagonal-sum](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/1572-matrix-diagonal-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0012-integer-to-roman) |
+## String
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
