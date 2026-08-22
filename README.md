@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2806-account-balance-after-rounded-purchase](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/2806-account-balance-after-rounded-purchase) |
 | [2849-determine-if-a-cell-is-reachable-at-a-given-time](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/2849-determine-if-a-cell-is-reachable-at-a-given-time) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Array
 |  |
 | ------- |
