@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1837-sum-of-digits-in-base-k](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/1837-sum-of-digits-in-base-k) |
+| [1927-sum-game](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/1927-sum-game) |
 | [2413-smallest-even-multiple](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/2413-smallest-even-multiple) |
 | [2579-count-total-number-of-colored-cells](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/2579-count-total-number-of-colored-cells) |
 | [2806-account-balance-after-rounded-purchase](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/2806-account-balance-after-rounded-purchase) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0012-integer-to-roman) |
+| [1927-sum-game](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/1927-sum-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1927-sum-game](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/1927-sum-game) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 ## Counting
 |  |
@@ -120,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0141-linked-list-cycle) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
