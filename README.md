@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0012-integer-to-roman) |
+| [0020-valid-parentheses](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0020-valid-parentheses) |
 | [1927-sum-game](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/1927-sum-game) |
 ## Binary Search
 |  |
@@ -147,4 +148,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1872-stone-game-viii](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/1872-stone-game-viii) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
