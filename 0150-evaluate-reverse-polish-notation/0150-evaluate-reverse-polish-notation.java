@@ -4,23 +4,22 @@ class Solution {
         int result;
         for(int i=0;i<tokens.length;i++){
             String token = tokens[i];
-            if(token.equals("+")||token.equals("-")||token.equals("*")||token.equals("/")){
+            if(token.equals("+")){
                 int a = stack.pop();
                 int b = stack.pop();
-                switch(token){
-                    case "+":
-                        stack.push(b+a);
-                        break;
-                    case "-":
-                        stack.push(b-a);
-                        break;
-                    case "*":
-                        stack.push(b*a);
-                        break;
-                    case "/":
-                        stack.push(b/a);
-                        break;
-                }
+                stack.push(b+a);
+            }else if(token.equals("-")){
+                int a = stack.pop();
+                int b = stack.pop();
+                stack.push(b-a);
+            }else if(token.equals("*")){
+                int a = stack.pop();
+                int b = stack.pop();
+                stack.push(b*a);
+            }else if(token.equals("/")){
+                int a = stack.pop();
+                int b = stack.pop();
+                stack.push(b/a);
             }else{
                 stack.push(Integer.parseInt(token));
             }
