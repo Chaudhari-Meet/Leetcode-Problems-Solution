@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0204-count-primes) |
 | [0496-next-greater-element-i](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0503-next-greater-element-ii) |
 | [0941-valid-mountain-array](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0941-valid-mountain-array) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/1572-matrix-diagonal-sum) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0496-next-greater-element-i](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0503-next-greater-element-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0503-next-greater-element-ii) |
 ## Sliding Window
 |  |
 | ------- |
