@@ -1,18 +1,26 @@
 class Solution {
     public int singleNonDuplicate(int[] nums) {
-        Map<Integer,Integer> myMap = new HashMap<>();
-        for(int num : nums){
-            if(myMap.containsKey(num)){
-                myMap.replace(num,myMap.get(num) + 1);
-            }else{
-                myMap.put(num,1);
+
+
+        int low = 0;
+        int high = nums.length - 1;
+
+        while(low < high ){
+             int mid = low + (high - low) / 2;
+
+            if (mid % 2 == 1){
+                mid--;
             }
-        }
-        for(int num : nums){
-            if(myMap.get(num)==1){
-                return num;
+            if( nums[mid + 1] == nums[mid]){
+                low = mid + 2;
             }
+            else {
+                high = mid;
+            }
+            
         }
-        return -1;
+        
+       return nums[low];
     }
+        
 }
