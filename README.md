@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0204-count-primes) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0069-sqrtx) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Combinatorics
 |  |
@@ -196,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0155-min-stack) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
