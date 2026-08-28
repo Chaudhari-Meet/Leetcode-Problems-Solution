@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0012-integer-to-roman) |
 | [0141-linked-list-cycle](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0141-linked-list-cycle) |
+| [0242-valid-anagram](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0496-next-greater-element-i) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0020-valid-parentheses) |
+| [0242-valid-anagram](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0242-valid-anagram) |
 | [1021-remove-outermost-parentheses](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -202,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0069-sqrtx) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
