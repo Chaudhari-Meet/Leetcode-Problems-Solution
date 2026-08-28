@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0204-count-primes) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Number Theory
 |  |
 | ------- |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Binary Search
 |  |
 | ------- |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0141-linked-list-cycle) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Recursion
 |  |
 | ------- |
