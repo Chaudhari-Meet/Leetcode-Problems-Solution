@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2057-smallest-index-with-equal-value](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/2057-smallest-index-with-equal-value) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Enumeration
@@ -221,8 +222,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0242-valid-anagram) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Ternary Search
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0852-peak-index-in-a-mountain-array) |
+## Union-Find
+|  |
+| ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->
