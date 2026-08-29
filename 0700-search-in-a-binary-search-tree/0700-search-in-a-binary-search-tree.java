@@ -15,30 +15,10 @@
  */
 class Solution {
     TreeNode result;
-    private TreeNode insertIntoBST(TreeNode root, int val) {
-        if (root == null) {
-            return new TreeNode(val);
-        }
-        if (val < root.val) {
-            root.left = insertIntoBST(root.left, val);
-        } else if (val > root.val) {
-            root.right = insertIntoBST(root.right, val);
-        }
-        return root;
-    }
-
-    public void preOrder(TreeNode root, int k) {
-        if (root != null) {
-            result = insertIntoBST(result, root.val);
-            preOrder(root.left, k);
-            preOrder(root.right, k);
-        }
-    }
     public TreeNode searchBST(TreeNode root, int val) {
         if(root!=null){
             if(root.val == val){
-                preOrder(root,val);
-                return result;
+                return root;
             }else if (val < root.val){
                 return searchBST(root.left,val);
             }else{
