@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0204-count-primes) |
+| [0400-nth-digit](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0400-nth-digit) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0069-sqrtx) |
+| [0400-nth-digit](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0400-nth-digit) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
