@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/1872-stone-game-viii) |
 | [2057-smallest-index-with-equal-value](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/2057-smallest-index-with-equal-value) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2241-design-an-atm-machine](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/2241-design-an-atm-machine) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0976-largest-perimeter-triangle) |
 | [1927-sum-game](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2241-design-an-atm-machine](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/2241-design-an-atm-machine) |
 | [2591-distribute-money-to-maximum-children](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/2591-distribute-money-to-maximum-children) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0155-min-stack) |
+| [2241-design-an-atm-machine](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/2241-design-an-atm-machine) |
 ## Newton's Method
 |  |
 | ------- |
