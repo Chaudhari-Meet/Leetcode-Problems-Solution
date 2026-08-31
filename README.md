@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0020-valid-parentheses) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0496-next-greater-element-i) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -280,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
