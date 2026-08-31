@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0048-rotate-image) |
 | [0088-merge-sorted-array](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0217-contains-duplicate) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0199-binary-tree-right-side-view) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0199-binary-tree-right-side-view) |
@@ -311,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0700-search-in-a-binary-search-tree) |
@@ -319,4 +323,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0543-diameter-of-binary-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
