@@ -14,11 +14,11 @@ class Solution {
             if(intervals[i][0] >= intervals[k][1]){
 
                 c++;
+
                 k=i;
 
             }
         }
-
         return n-c;
     }
 }
