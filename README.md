@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0204-count-primes) |
+| [0343-integer-break](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0343-integer-break) |
 | [0400-nth-digit](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0400-nth-digit) |
 | [0976-largest-perimeter-triangle](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0976-largest-perimeter-triangle) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0119-pascals-triangle-ii) |
 | [0322-coin-change](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0322-coin-change) |
+| [0343-integer-break](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0343-integer-break) |
 | [0392-is-subsequence](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0435-non-overlapping-intervals) |
 | [1872-stone-game-viii](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/1872-stone-game-viii) |
