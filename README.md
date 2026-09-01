@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0392-is-subsequence) |
 | [1021-remove-outermost-parentheses](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1143-longest-common-subsequence](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/1143-longest-common-subsequence) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1927-sum-game](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0343-integer-break](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0343-integer-break) |
 | [0392-is-subsequence](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0435-non-overlapping-intervals) |
+| [1143-longest-common-subsequence](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/1143-longest-common-subsequence) |
 | [1872-stone-game-viii](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/1872-stone-game-viii) |
 ## Minimax
 |  |
@@ -393,4 +395,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0322-coin-change) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
