@@ -5,9 +5,9 @@ class Solution {
         int startStation = 0;
 
         for (int i = 0; i < gas.length; i++) {
-            int netGas = gas[i] - cost[i];
-            totalTank += netGas;
-            currentTank += netGas;
+            //int netGas = gas[i] - cost[i];
+            totalTank += gas[i] - cost[i];
+            currentTank += gas[i] - cost[i];
             if (currentTank < 0) {
                 startStation = i + 1;
                 currentTank = 0;
