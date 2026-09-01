@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0217-contains-duplicate) |
+| [0322-coin-change](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0496-next-greater-element-i](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0496-next-greater-element-i) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0119-pascals-triangle-ii) |
+| [0322-coin-change](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0435-non-overlapping-intervals) |
 | [1872-stone-game-viii](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/1872-stone-game-viii) |
 ## Minimax
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0199-binary-tree-right-side-view) |
+| [0322-coin-change](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0322-coin-change) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Tree
 |  |
@@ -373,4 +376,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0070-climbing-stairs) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
