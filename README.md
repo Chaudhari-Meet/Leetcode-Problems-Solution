@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0204-count-primes) |
 | [0400-nth-digit](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0400-nth-digit) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0119-pascals-triangle-ii) |
 | [0435-non-overlapping-intervals](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0435-non-overlapping-intervals) |
@@ -367,4 +369,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0976-largest-perimeter-triangle) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
