@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Combinatorics
 |  |
 | ------- |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0940-distinct-subsequences-ii) |
 | [1143-longest-common-subsequence](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/1143-longest-common-subsequence) |
 | [1872-stone-game-viii](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/1872-stone-game-viii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Minimax
 |  |
 | ------- |
@@ -293,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0976-largest-perimeter-triangle](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0976-largest-perimeter-triangle) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Ternary Search
 |  |
 | ------- |
