@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0204-count-primes) |
 | [0343-integer-break](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0343-integer-break) |
 | [0400-nth-digit](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0400-nth-digit) |
+| [0836-rectangle-overlap](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0836-rectangle-overlap) |
 | [0976-largest-perimeter-triangle](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0976-largest-perimeter-triangle) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -424,4 +425,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/1143-longest-common-subsequence) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
