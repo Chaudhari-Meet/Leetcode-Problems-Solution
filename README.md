@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/1143-longest-common-subsequence) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1927-sum-game](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/1927-sum-game) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2241-design-an-atm-machine](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/2241-design-an-atm-machine) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2591-distribute-money-to-maximum-children](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/2591-distribute-money-to-maximum-children) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0392-is-subsequence) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Recursion
 |  |
@@ -243,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0940-distinct-subsequences-ii) |
 | [1143-longest-common-subsequence](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/1143-longest-common-subsequence) |
 | [1872-stone-game-viii](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/1872-stone-game-viii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Minimax
 |  |
