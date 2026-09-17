@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0976-largest-perimeter-triangle) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1572-matrix-diagonal-sum](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/1572-matrix-diagonal-sum) |
 | [1872-stone-game-viii](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/1872-stone-game-viii) |
 | [2057-smallest-index-with-equal-value](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/2057-smallest-index-with-equal-value) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0496-next-greater-element-i) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Combinatorics
@@ -248,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0435-non-overlapping-intervals) |
 | [0940-distinct-subsequences-ii](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0940-distinct-subsequences-ii) |
 | [1143-longest-common-subsequence](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/1143-longest-common-subsequence) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/1872-stone-game-viii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -287,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Design
 |  |
