@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1096-brace-expansion-ii](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/1096-brace-expansion-ii) |
 | [1143-longest-common-subsequence](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/1143-longest-common-subsequence) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -299,12 +300,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1096-brace-expansion-ii](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/1021-remove-outermost-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
