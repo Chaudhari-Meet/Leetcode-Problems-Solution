@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0115-distinct-subsequences) |
 | [0242-valid-anagram](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0301-remove-invalid-parentheses) |
 | [0392-is-subsequence](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0392-is-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0856-score-of-parentheses) |
@@ -423,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0199-binary-tree-right-side-view) |
+| [0301-remove-invalid-parentheses](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0322-coin-change) |
 | [1096-brace-expansion-ii](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/1096-brace-expansion-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -513,5 +515,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
