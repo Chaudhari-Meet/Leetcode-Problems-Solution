@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1837-sum-of-digits-in-base-k](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/1837-sum-of-digits-in-base-k) |
 | [1872-stone-game-viii](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/1927-sum-game) |
+| [2409-count-days-spent-together](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/2409-count-days-spent-together) |
 | [2413-smallest-even-multiple](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/2413-smallest-even-multiple) |
 | [2579-count-total-number-of-colored-cells](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/2579-count-total-number-of-colored-cells) |
 | [2591-distribute-money-to-maximum-children](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/2591-distribute-money-to-maximum-children) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/1927-sum-game) |
+| [2409-count-days-spent-together](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/3498-reverse-degree-of-a-string) |
