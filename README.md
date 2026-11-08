@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-valid-mountain-array](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0941-valid-mountain-array) |
 | [0976-largest-perimeter-triangle](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0976-largest-perimeter-triangle) |
 | [1254-number-of-closed-islands](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/1267-count-servers-that-communicate) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0048-rotate-image) |
 | [0835-image-overlap](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/1267-count-servers-that-communicate) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/1572-matrix-diagonal-sum) |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/1267-count-servers-that-communicate) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Prefix Sum
@@ -470,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -511,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0543-diameter-of-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0938-range-sum-of-bst) |
 | [1254-number-of-closed-islands](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/1267-count-servers-that-communicate) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -527,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0322-coin-change) |
 | [1096-brace-expansion-ii](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/1267-count-servers-that-communicate) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
