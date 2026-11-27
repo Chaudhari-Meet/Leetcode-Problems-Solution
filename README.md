@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0540-single-element-in-a-sorted-array) |
+| [0561-array-partition](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0605-can-place-flowers) |
 | [0835-image-overlap](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0835-image-overlap) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0134-gas-station) |
 | [0435-non-overlapping-intervals](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0561-array-partition](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0605-can-place-flowers) |
 | [0678-valid-parenthesis-string](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0860-lemonade-change) |
@@ -492,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0561-array-partition](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0561-array-partition) |
 | [0976-largest-perimeter-triangle](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0976-largest-perimeter-triangle) |
 | [1096-brace-expansion-ii](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/1096-brace-expansion-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -736,4 +739,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3934-smallest-unique-subarray](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/3934-smallest-unique-subarray) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
