@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0134-gas-station) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0169-majority-element](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0217-contains-duplicate) |
 | [0322-coin-change](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0322-coin-change) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0349-intersection-of-two-arrays) |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0169-majority-element) |
 | [1267-count-servers-that-communicate](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/1267-count-servers-that-communicate) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -497,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0349-intersection-of-two-arrays) |
@@ -639,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0169-majority-element) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Quicksort
@@ -754,4 +759,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0561-array-partition) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
