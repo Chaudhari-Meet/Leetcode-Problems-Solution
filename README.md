@@ -404,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0343-integer-break](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0343-integer-break) |
 | [0392-is-subsequence](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0435-non-overlapping-intervals) |
+| [0629-k-inverse-pairs-array](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0629-k-inverse-pairs-array) |
 | [0678-valid-parenthesis-string](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/0940-distinct-subsequences-ii) |
 | [1143-longest-common-subsequence](https://github.com/Chaudhari-Meet/Leetcode-Problems-Solution/tree/master/1143-longest-common-subsequence) |
